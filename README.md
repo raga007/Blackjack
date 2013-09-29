@@ -1,4 +1,4 @@
-Space-Invaders
+Blackjack
 ==============
 
-A Java based space Invaders game with a graphical user interface.
+A Java based Blackjack game with a graphical user interface.
